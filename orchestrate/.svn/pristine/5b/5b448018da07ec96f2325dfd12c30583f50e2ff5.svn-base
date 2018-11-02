@@ -1,0 +1,264 @@
+\begin{theindex}
+
+  \item Action, \hyperpage{363}
+  \item Angle between vectors, \hyperpage{78}
+  \item Anti-symmetric matrix, \hyperpage{131}
+
+  \indexspace
+
+  \item Back substitution, \hyperpage{142}
+  \item Base field, \hyperpage{93}
+  \item Basis, \hyperpage{197}
+    \subitem concept of, \hyperpage{179}
+    \subitem example of, \hyperpage{192}
+  \item basis, \hyperpage{102, 103}
+  \item Bit matrices, \hyperpage{136}
+  \item Bit Matrix, \hyperpage{137}
+  \item Block matrix, \hyperpage{124}
+
+  \indexspace
+
+  \item Calculus Superhero, \hyperpage{279}
+  \item Canonical basis, 
+		\hyperindexformat{\seealso{Standard basis}}{201}, 
+		\hyperpage{382}
+  \item Captain Conundrum, \hyperpage{84}, \hyperpage{279}
+  \item Cauchy--Schwarz inequality, \hyperpage{79}
+  \item Change of basis, \hyperpage{224}
+  \item Change of basis matrix, \hyperpage{225}
+  \item Characteristic polynomial, \hyperpage{167}, \hyperpage{214}, 
+		\hyperpage{216}
+  \item Closure, \hyperpage{181}
+    \subitem additive, \hyperpage{87}
+    \subitem multiplicative, \hyperpage{87}
+  \item Codomain, \hyperpage{30}, \hyperpage{264}
+  \item Cofactor, \hyperpage{172}
+  \item Column Space, \hyperpage{120}
+    \subitem concept of, \hyperpage{24}
+  \item Column space, \hyperpage{268}
+  \item Column vector, \hyperpage{116}
+    \subitem  of a vector, \hyperpage{110}
+  \item Components of a vector, \hyperpage{110}
+  \item Conic sections, \hyperpage{319}
+  \item Conjugation, \hyperpage{229}
+  \item Cramer's rule, \hyperpage{174}
+
+  \indexspace
+
+  \item Determinant, \hyperpage{154}
+    \subitem $2\times 2$ matrix, \hyperpage{152}
+    \subitem $3\times 3$ matrix, \hyperpage{152}
+  \item Diagonal matrix, \hyperpage{120}
+  \item Diagonalizable, \hyperpage{224}
+  \item Diagonalization, \hyperpage{223}
+    \subitem concept of, \hyperpage{213}
+  \item Dimension, \hyperpage{197}
+    \subitem concept of, \hyperpage{102}
+    \subitem notion of, \hyperpage{179}
+  \item Dimension formula, \hyperpage{269}
+  \item Direct sum, \hyperpage{247}
+  \item Domain, \hyperpage{30}, \hyperpage{264}
+  \item Dot product, \hyperpage{78}
+  \item Dual vector space, \hyperpage{331}
+  \item Dyad, \hyperpage{237}
+
+  \indexspace
+
+  \item Eigenspace, \hyperpage{219}
+  \item Eigenvalue, \hyperpage{211}, \hyperpage{215}
+    \subitem multiplicity of, \hyperpage{216}
+  \item Eigenvector, \hyperpage{211}, \hyperpage{215}
+  \item Einstein, Albert, \hyperpage{61}
+  \item Elementary matrix, \hyperpage{156}
+    \subitem swapping rows, \hyperpage{157}
+  \item Elite NASA engineers, \hyperpage{316}
+  \item Equivalence relation, \hyperpage{232}
+  \item EROs, \hyperpage{36}
+  \item Euclidean length, \hyperpage{77}
+  \item Even permutation, \hyperpage{153}
+  \item Expansion by minors, \hyperpage{168}
+
+  \indexspace
+
+  \item Fibonacci numbers, \hyperpage{336}
+  \item Field, \hyperpage{289}
+  \item Forward substitution, \hyperpage{142}
+  \item free variables, \hyperpage{39}
+  \item Fundamental theorem of algebra, \hyperpage{216}
+  \item Fundamental Theorem of Linear Algebra, \hyperpage{272}
+
+  \indexspace
+
+  \item Galois, \hyperpage{94}
+  \item Gaussian elimination, \hyperpage{33}
+  \item Golden ratio, \hyperpage{321}
+  \item Goofing up, \hyperpage{135}
+  \item Gram--Schmidt orthogonalization procedure, \hyperpage{244}
+  \item Graph theory, \hyperpage{116}
+
+  \indexspace
+
+  \item homogeneous equation, \hyperpage{59}
+  \item Homogeneous solution
+    \subitem an example, \hyperpage{59}
+  \item Homomorphism, \hyperpage{97}
+  \item Hyperplane, \hyperpage{57}, \hyperpage{76}
+
+  \indexspace
+
+  \item Identity matrix, \hyperpage{121}
+    \subitem $2\times2$, \hyperpage{34}
+  \item Inner product, \hyperpage{236}
+  \item Invariant direction, \hyperpage{211}
+  \item Inverse Matrix, \hyperpage{47}
+  \item Invertible, \hyperpage{132}
+  \item invertiblech3, \hyperpage{47}
+  \item Involution, \hyperpage{250}
+
+  \indexspace
+
+  \item Jordan cell, \hyperpage{232}, \hyperpage{385}
+
+  \indexspace
+
+  \item Kernel, \hyperpage{266}
+  \item Kirchoff's laws, \hyperpage{314}
+  \item Kronecker delta, \hyperpage{236}
+
+  \indexspace
+
+  \item Law of Cosines, \hyperpage{77}
+  \item Least squares, \hyperpage{277}
+    \subitem solutions, \hyperpage{278}
+  \item Left singular vectors, \hyperpage{284}
+  \item Length of a vector, \hyperpage{78}
+  \item Linear combination, \hyperpage{21}, \hyperpage{219}
+  \item Linear dependence theorem, \hyperpage{189}
+  \item Linear independence
+    \subitem concept of, \hyperpage{179}
+  \item Linear Map, \hyperpage{97}
+  \item Linear Operator, \hyperpage{97}
+  \item linear programming, \hyperpage{63}
+  \item Linear System
+    \subitem concept of, \hyperpage{22}
+  \item Linear Transformation, \hyperpage{97}
+    \subitem concept of, \hyperpage{24}
+  \item Linearly dependent, \hyperpage{188}
+  \item Linearly independent, \hyperpage{188}
+  \item lower triangular, \hyperpage{50}
+  \item Lower triangular matrix, \hyperpage{141}
+  \item Lower unit triangular matrix, \hyperpage{144}
+  \item $LU$ decomposition, \hyperpage{141}
+
+  \indexspace
+
+  \item Magnitude, \hyperindexformat{\seealso{Length of a vector}}{78}
+  \item Matrix, \hyperpage{115}
+    \subitem diagonal of, \hyperpage{120}
+    \subitem entries of, \hyperpage{116}
+  \item Matrix equation, \hyperpage{25}
+  \item Matrix exponential, \hyperpage{126}
+  \item Matrix of a linear transformation, \hyperpage{202}
+  \item Minimal spanning set, \hyperpage{192}
+  \item Minor, \hyperpage{168}
+  \item Multiplicative function, \hyperpage{168}
+
+  \indexspace
+
+  \item Newton's Principi\ae, \hyperpage{318}
+  \item Non-invertible, \hyperpage{132}
+  \item Non-pivot variables, \hyperpage{39}
+  \item Nonsingular, \hyperpage{132}
+  \item Norm, \hyperindexformat{\seealso{Length of a vector}}{78}
+  \item Nullity, \hyperpage{269}
+
+  \indexspace
+
+  \item Odd permutation, \hyperpage{153}
+  \item Orthogonal, \hyperpage{78}, \hyperpage{236}
+  \item Orthogonal basis, \hyperpage{237}
+  \item Orthogonal complement, \hyperpage{248}
+  \item Orthogonal decomposition, \hyperpage{242}
+  \item Orthogonal matrix, \hyperpage{240}
+  \item Orthonormal basis, \hyperpage{237}
+  \item Outer product, \hyperpage{236}
+
+  \indexspace
+
+  \item Parallelepiped, \hyperpage{174}
+  \item Particular solution
+    \subitem an example, \hyperpage{58}
+  \item Pauli Matrices, \hyperpage{110}
+  \item Permutation, \hyperpage{152}
+  \item Permutation matrices, \hyperpage{231}
+  \item ``Perp'', \hyperpage{249}
+  \item Pivot variables, \hyperpage{39}
+  \item Pre-image, \hyperpage{264}
+  \item Projection, \hyperpage{221}
+
+  \indexspace
+
+  \item QR decomposition, \hyperpage{245}
+  \item Queen Quandary, \hyperpage{320}
+
+  \indexspace
+
+  \item Random, \hyperpage{274}
+  \item Rank, \hyperpage{268}
+  \item Recursion relation, \hyperpage{321}
+  \item Reduced row echelon form, \hyperpage{37}
+  \item Right singular vector, \hyperpage{283}
+  \item Row Space, \hyperpage{120}
+  \item Row vector, \hyperpage{116}
+
+  \indexspace
+
+  \item Scalar multiplication
+    \subitem $n$-vectors, \hyperpage{74}
+  \item Sign function, \hyperpage{153}
+  \item Similar matrices, \hyperpage{229}
+  \item singular, \hyperpage{132}
+  \item Singular values, \hyperpage{262}
+  \item Skew-symmetric matrix, 
+		\hyperindexformat{\see {Anti-symmetric matrix}}{131}
+  \item Solution set, \hyperpage{39}, \hyperpage{57}
+    \subitem set notation, \hyperpage{58}
+  \item solution set, \hyperpage{39}
+  \item Span, \hyperpage{182}
+  \item Square matrices, \hyperpage{125}
+  \item Square matrix, \hyperpage{120}
+  \item Standard basis, \hyperpage{201}, \hyperpage{204}
+    \subitem for ${\mathbb R}^2$, \hyperpage{106}
+  \item Subspace, \hyperpage{179}
+    \subitem notion of, \hyperpage{179}
+  \item Subspace theorem, \hyperpage{180}
+  \item Sum of vectors spaces, \hyperpage{247}
+  \item Symmetric matrix, \hyperpage{121}, \hyperpage{255}
+
+  \indexspace
+
+  \item Target, \hyperindexformat{\see{Codomain}}{264}
+  \item Target Space, \hyperindexformat{\seealso{Codomain}}{30}
+  \item Trace, \hyperpage{127}
+  \item Transpose, \hyperpage{121}
+    \subitem of a column vector, \hyperpage{116}
+  \item Triangle inequality, \hyperpage{80}
+
+  \indexspace
+
+  \item Upper triangular matrix, \hyperpage{50}, \hyperpage{141}
+
+  \indexspace
+
+  \item Vandermonde determinant, \hyperpage{316}
+  \item Vector addition
+    \subitem $n$-vectors, \hyperpage{74}
+  \item Vector space, \hyperpage{87}
+    \subitem finite dimensional, \hyperpage{197}
+
+  \indexspace
+
+  \item Zero vector
+    \subitem $n$-vectors, \hyperpage{74}
+
+\end{theindex}
